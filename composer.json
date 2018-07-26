@@ -1,0 +1,10 @@
+{
+    "name" : "composer",
+    "description": "composer file",
+    "autoload": {
+        "psr-4": {
+            "Test\\Strategy\\": "src/"
+        }
+    },
+    "require" : {}
+}
